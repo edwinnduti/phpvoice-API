@@ -9,6 +9,8 @@ e
 >https://blah.000webhost.com/handlecall.php
 >https://blah.000webhost.com/renderaudio.php
 
+Create a folder audio and store all ii8
+
 Assign the first URL as the callback url in Africastalking and assign the second one as the events URL.
 
 Pick a number.Test it by calling.
